@@ -7,7 +7,7 @@
 
 目标:
 
-USACO PLAT
+USACO PLAT，IOI，EGOI <-（差的好远……）
 
 浙江大学，北京大学，清华大学 <- 如果我在中国
 
