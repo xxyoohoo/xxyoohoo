@@ -1,0 +1,70 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+struct SwimRecord
+{
+    double bestTime;  //PB
+    int numLanes;     //Lanes
+};
+
+double calculateEarnings(double oldTime, double newTime, int placement, int numLanes) {
+    double timeDrop = oldTime - newTime;
+    int moneyFromTime = max(0, (int)ceil(timeDrop));
+    int moneyFromPlacement = (placement <= numLanes) ? (numLanes - placement + 1) : 0; // Placement earnings
+    return moneyFromTime + moneyFromPlacement;
+}
+
+int main()
+{
+    map<string, SwimRecord> records; //records
+    char choice;
+    do {
+        string event;
+        cout << "Enter event name: ";
+        cin.ignore();
+        getline(cin, event);
+
+        double oldTime = 0;
+        if (records.find(event) != records.end()) {
+            oldTime = records[event].bestTime;
+            cout << "Your previous best time for " << event << " is " << oldTime << "s.\n";
+        } else {
+            cout << "No record found for this event. Adding a new one.\n";
+            cout << "Enter number of lanes in the pool: ";
+            cin >> records[event].numLanes;
+        }
+
+        double newTime;
+        cout << "Enter your current time (seconds): ";
+        cin >> newTime;
+
+        int placement;
+        cout << "Enter your placement: ";
+        cin >> placement;
+
+        int numLanes = records[event].numLanes;
+        double earnings = calculateEarnings(oldTime, newTime, placement, numLanes);
+        cout << "Earnings for this race: $" << earnings << endl;
+
+        if (oldTime == 0 || newTime < oldTime) {
+            records[event].bestTime = newTime; // Update PB
+            cout << "New personal best for " << event << ": " << newTime << "s!\n";
+        }
+
+        cout << "Do you want to add another record? (y/n): ";
+        cin >> choice;
+
+    } while (choice == 'y' || choice == 'Y');
+
+    cout << "\nSummary of Swim Records and Earnings:\n";
+    double totalEarnings = 0.0;
+    for (const auto &entry : records) {
+        const string &event = entry.first;
+        const SwimRecord &record = entry.second;
+        cout << "Event: " << event
+             << ", Best Time: " << record.bestTime << "s"
+             << ", Lanes: " << record.numLanes << endl;
+    }
+
+    return 0;
+}
