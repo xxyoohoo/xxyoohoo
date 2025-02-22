@@ -24,7 +24,6 @@
 
 <h3 align="center">Social:</h3>
 
-<h3 align="center">Connect with me:</h3>
 
 <p align="center">
   <a href="https://open.kattis.com/users/xxyoohoo" target="_blank">
