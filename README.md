@@ -29,4 +29,5 @@
 </p>
 
 <p align="center">
-  <img align="center" 
+  ![snake gif](https://github.com/xxyoohoo/xxyoohoo/blob/output/github-snake-dark.svg)
+</p>
