@@ -10,6 +10,8 @@
   <li>💬 Ask me about <strong>anything!</strong></li>
   <li>📫 Reach me at: <strong>arianna.x.yang@gmail.com</strong></li>
 </ul>
+
+
 <h3 align="center">My Repositories:</h3>
 
 - [Kattis Guide Problemset](https://github.com/xxyoohoo/KattisGuide) - Collection of the Kattis Archive Problems I have done.
@@ -19,12 +21,34 @@
 - [Beginner Code Archive](https://github.com/xxyoohoo/Random-Stuff ) - Beginner Code Archive.
 
 
+
+
 <h3 align="center">Social:</h3>
+
 <p align="center">
-  <a href="https://codeforces.com/profile/xxyoohoo" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="xxyoohoo" height="30" width="40" />
+  <a href="https://open.kattis.com/users/xxyoohoo" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kattis.svg" alt="Kattis" height="30" width="40" />
+  </a>
+  
+  <a href="http://ybt.ssoier.cn:8088/userinfo.php?name=xxyoohoo" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/YBT_logo.svg/1200px-YBT_logo.svg.png" alt="YBT" height="30" width="40" />
+  </a>
+  
+  <a href="https://atcoder.jp/users/xxyoohoo" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/atcoder.svg" alt="AtCoder" height="30" width="40" />
+  </a>
+  
+  <a href="https://codeforces.com/profile/xxyoohoo" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+  </a>
+  
+  <a href="https://cses.fi/user/213100" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/CSES.svg/1200px-CSES.svg.png" alt="CSES" height="30" width="40" />
   </a>
 </p>
+
+
+
 
 <h3 align="center">Languages:</h3>
 <p align="center">
@@ -36,9 +60,7 @@
   </a> 
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xxyoohoo&show_icons=true&locale=en&layout=compact" alt="xxyoohoo" />
-</p>
+
 
 <p align="center">
   <img src="https://github.com/xxyoohoo/xxyoohoo/blob/output/github-snake-dark.svg" alt="snake gif" />
