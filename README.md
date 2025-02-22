@@ -1,4 +1,5 @@
 <h1 align="center">Hello, I'm Arianna Yang</h1>
+<h4 align="center">Vocalist, Flautist, Swimmer, Programmer! <3</h4>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=xxyoohoo&label=Profile%20views&color=0e75b6&style=flat" alt="xxyoohoo" />
