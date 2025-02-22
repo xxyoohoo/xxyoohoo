@@ -22,32 +22,33 @@
 
 
 
-
 <h3 align="center">Social:</h3>
 
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
   <a href="https://open.kattis.com/users/xxyoohoo" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Kattis_logo.png" alt="Kattis" height="30" width="40" />
+    <img class="social-icon" src="https://open.kattis.com/images/site-logo?v=0a3f6018aacf449381741e45cf0ff6ba" alt="Kattis" height="60" width="70" style="margin: 100px;"/>
   </a>
   
   <a href="http://ybt.ssoier.cn:8088/userinfo.php?name=xxyoohoo" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/YBT_logo.svg/1200px-YBT_logo.svg.png" alt="YBT" height="30" width="40" />
+    <img class="social-icon" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTa-kW9ZL1Mzw7KhWuvyM5pus5_CyX5mRtcQ&s" alt="YBT SSOIER" height="60" width="150" style="margin: 15px;"/>
   </a>
   
   <a href="https://atcoder.jp/users/xxyoohoo" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Atcoder-logo.png" alt="AtCoder" height="30" width="40" />
+    <img class="social-icon" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm_pVNsGfvZFQPUeet8KaNJJo5ohykVnIhHQ&s" alt="AtCoder" height="60" width="80" style="margin: 15px;"/>
   </a>
   
   <a href="https://codeforces.com/profile/xxyoohoo" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Codeforces_Logo.png" alt="Codeforces" height="30" width="40" />
+    <img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="60" width="80" style="margin: 15px;"/>
   </a>
   
   <a href="https://cses.fi/user/213100" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/CSES.svg/1200px-CSES.svg.png" alt="CSES" height="30" width="40" />
+    <img class="social-icon" src="https://codeforces.com/predownloaded/f6/f0/f6f0e86fb061ff07cda7c345feb0175382d57a35.png" alt="CSES" height="60" width="80" style="margin: 15px;"/>
   </a>
 </p>
+
+
 
 
 
