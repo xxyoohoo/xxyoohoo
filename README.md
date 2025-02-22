@@ -25,9 +25,11 @@
 
 <h3 align="center">Social:</h3>
 
+<h3 align="center">Connect with me:</h3>
+
 <p align="center">
   <a href="https://open.kattis.com/users/xxyoohoo" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kattis.svg" alt="Kattis" height="30" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Kattis_logo.png" alt="Kattis" height="30" width="40" />
   </a>
   
   <a href="http://ybt.ssoier.cn:8088/userinfo.php?name=xxyoohoo" target="_blank">
@@ -35,11 +37,11 @@
   </a>
   
   <a href="https://atcoder.jp/users/xxyoohoo" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/atcoder.svg" alt="AtCoder" height="30" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Atcoder-logo.png" alt="AtCoder" height="30" width="40" />
   </a>
   
   <a href="https://codeforces.com/profile/xxyoohoo" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Codeforces_Logo.png" alt="Codeforces" height="30" width="40" />
   </a>
   
   <a href="https://cses.fi/user/213100" target="_blank">
