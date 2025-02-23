@@ -8,13 +8,8 @@
 <h3 align="center"> Extracurriculars: </h3>
 <h5> Three Village Swim Club </h5>
 <h6><a href="https://www.swimcloud.com/swimmer/2969968/"> Swim Status! </a> - Click here for swimcloud data!</h6>
-<h5> Bergen Debate, American Debate, Capitol Debate </h5>
-<h6><a href="https://www.tabroom.com/user/student/history.mhtml?tourn_id=32045&student_id=1583493"> University of Michigan 2025 </a> - Bergen </h6>
-<h6><a href="https://www.tabroom.com/user/student/history.mhtml?tourn_id=31895&student_id=1511808"> Bentley/Harvard University Tournament 2024 </a> - Capitol Debate </h6>
-<h6><a href="https://www.tabroom.com/user/student/history.mhtml?tourn_id=29298&student_id=1394236"> Club League Nov 2024 </a> - Capitol Debate </h6>
-<h6><a href="https://www.tabroom.com/user/student/history.mhtml?tourn_id=29012&student_id=1394236"> Club League Oct 2024 </a> - Capitol Debate </h6>
-  <h6><a href="https://www.tabroom.com/user/student/history.mhtml?tourn_id=31234&student_id=1478287"> Club League Q3 2024 </a> - Capitol Debate </h6>
-<h6><a href="https://www.tabroom.com/user/student/history.mhtml?tourn_id=28017&student_id=1357886"> Rider University Tournament 2023 </a> - Capitol Debate </h6>
+<h5> Bergen Debate, American Debate, Capitol Debate: </h5>
+<h6><a href="https://www.tabroom.com/user/student/history.mhtml?tourn_id=32045&student_id=1583493"> University of Michigan 2025 </a> - Bergen, <a href="https://www.tabroom.com/user/student/history.mhtml?tourn_id=31895&student_id=1511808"> Bentley/Harvard University Tournament 2024 </a> - Capitol Debate, <a href="https://www.tabroom.com/user/student/history.mhtml?tourn_id=29298&student_id=1394236"> Club League Nov 2024 </a> - Capitol Debate, <a href="https://www.tabroom.com/user/student/history.mhtml?tourn_id=29012&student_id=1394236"> Club League Oct 2024 </a> - Capitol Debate, <a href="https://www.tabroom.com/user/student/history.mhtml?tourn_id=31234&student_id=1478287"> Club League Q3 2024 </a> - Capitol Debate, <a href="https://www.tabroom.com/user/student/history.mhtml?tourn_id=28017&student_id=1357886"> Rider University Tournament 2023 </a> - Capitol Debate </h6>
   
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=xxyoohoo&label=Profile%20views&color=0e75b6&style=flat" alt="xxyoohoo" />
