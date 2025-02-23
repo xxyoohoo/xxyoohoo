@@ -1,5 +1,10 @@
 <h1 align="center">Hello, I'm Arianna Yang</h1>
 <h2 align="center"> Vocalist, Flautist, Pianist, Swimmer, Figure Skater, Debater, Programmer! <3</h2>
+<!-- Page views -->
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=xxyoohoo&label=Profile%20views&color=0e75b6&style=flat" alt="xxyoohoo" />
+</p>
+<!-- Activities -->
 <h3 align="center"> School Activities/Member of: </h3>
 <h3 align="center"> School: </h3>
 <h5> Science Olympiad: </h5> 
@@ -16,10 +21,7 @@
 <h6><a href="https://www.tabroom.com/user/student/history.mhtml?tourn_id=32045&student_id=1583493"> University of Michigan 2025 - Bergen,   </a></h6>
 <h5> Capitol Debate:</h5>
 <h6><a href="https://www.tabroom.com/user/student/history.mhtml?tourn_id=31895&student_id=1511808"> Bentley/Harvard Tournament 2024 - Capitol Debate,   </a><a href="https://www.tabroom.com/user/student/history.mhtml?tourn_id=29298&student_id=1394236"> Club League Nov 2024 - Capitol Debate,   </a><a href="https://www.tabroom.com/user/student/history.mhtml?tourn_id=29012&student_id=1394236"> Club League Oct 2024 - Capitol Debate,   </a><a href="https://www.tabroom.com/user/student/history.mhtml?tourn_id=31234&student_id=1478287"> Club League Q3 2024 - Capitol Debate,   </a><a href="https://www.tabroom.com/user/student/history.mhtml?tourn_id=28017&student_id=1357886"> Rider Tournament 2023 - Capitol Debate   </a></h6>
-  
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=xxyoohoo&label=Profile%20views&color=0e75b6&style=flat" alt="xxyoohoo" />
-</p>
+
 
 <ul>
   <li>🔭 I’m currently working on <strong>Kattis Archive & CSES Problem Set</strong></li>
@@ -38,7 +40,7 @@
 - [Beginner Code Archive](https://github.com/xxyoohoo/Random-Stuff ) - Beginner Code Archive.
 
 
-
+<!-- Socials notes -->
 <h3 align="center"> Programming Socials:</h3>
 
 <p align="center">
@@ -68,7 +70,7 @@
 </p>
 
 
-
+<!-- Snake GIF -->
 <p align="center">
   <img src="https://github.com/xxyoohoo/xxyoohoo/blob/output/github-snake-dark.svg" alt="snake gif" />
 </p>
