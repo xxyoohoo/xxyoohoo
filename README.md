@@ -67,9 +67,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=xxyoohoo&show_icons=true&locale=en" alt="xxyoohoo" width="40%" height="40%" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=xxyoohoo&" alt="xxyoohoo" width="40%" height="40%" /></p>
 
-<section align = "center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xxyoohoo&show_icons=true&locale=en&layout=compact" alt="xxyoohoo" width="40%" height="40%" /></p>
-</section>
 
 
 <!-- Snake GIF -->
