@@ -7,10 +7,11 @@
 <img src="https://komarev.com/ghpvc/?username=xxyoohoo&style=for-the-badge">
 <img src="https://img.shields.io/github/followers/xxyoohoo?style=for-the-badge&color=blueviolet">
 <img src="https://img.shields.io/github/last-commit/xxyoohoo/xxyoohoo?style=for-the-badge">
-</section>
+
 
 <!-- Activities -->
 <h3> Activities: </h3>
+</section>
 <ul>
 <li> Science Olympiad: <a href="https://scioly.org/wiki/index.php/User:Cloudid"> Scioly.org: CloudID </a>
 <li> Math Team
