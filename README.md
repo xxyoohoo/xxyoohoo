@@ -1,5 +1,9 @@
 <h1 align="center">Hello, I'm Arianna Yang</h1>
 <h4 align="center">Vocalist, Flautist, Swimmer, Debater, Programmer! <3</h4>
+<h5 align="center"> School Activities/Member of: </h5>
+<h5> Science Olympiad </h5>
+<h5> Math Team </h5>
+<h5> Wind Ensemble </h5>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=xxyoohoo&label=Profile%20views&color=0e75b6&style=flat" alt="xxyoohoo" />
