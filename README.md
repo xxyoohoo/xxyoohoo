@@ -23,8 +23,8 @@
 </ul>
 
 <ul>
-  <li>🔭 I’m currently working on <strong>Kattis Archive & CSES Problem Set</strong></li>
-  <li>🌱 I’m currently learning <strong>C++ and Python</strong></li>
+  <li>🔭 Currently working on <strong>Kattis Archive & CSES Problem Set</strong></li>
+  <li>🌱 Currently learning <strong>C++, Python, HTML, and CSS!</strong></li>
   <li>💬 Ask me about <strong>anything!</strong></li>
   <li>📫 Reach me at: <strong>arianna.x.yang@gmail.com</strong></li>
 </ul>
