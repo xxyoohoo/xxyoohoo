@@ -7,6 +7,7 @@
 <h5> Wind Ensemble </h5>
 <h3 align="center"> Extracurriculars: </h3>
 <h5> Three Village Swim Club </h5>
+<h6><a href="https://www.swimcloud.com/swimmer/2969968/">Click here!</a> - Check out my swim stats!</h6>
 <h5> Bergen Debate, American Debate, Capitol Debate </h5>
 
 <p align="center"> 
@@ -31,35 +32,23 @@
 
 
 
-<h3 align="center">Social:</h3>
-
+<h3 align="center"> Programming Socials:</h3>
 
 <p align="center">
   <a href="https://open.kattis.com/users/xxyoohoo" target="_blank">
     <img class="social-icon" src="https://open.kattis.com/images/site-logo?v=0a3f6018aacf449381741e45cf0ff6ba" alt="Kattis" height="60" width="70" style="margin: 100px;"/>
   </a>
-  
   <a href="http://ybt.ssoier.cn:8088/userinfo.php?name=xxyoohoo" target="_blank">
     <img class="social-icon" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTa-kW9ZL1Mzw7KhWuvyM5pus5_CyX5mRtcQ&s" alt="YBT SSOIER" height="60" width="150" style="margin: 15px;"/>
   </a>
-  
   <a href="https://atcoder.jp/users/xxyoohoo" target="_blank">
     <img class="social-icon" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm_pVNsGfvZFQPUeet8KaNJJo5ohykVnIhHQ&s" alt="AtCoder" height="60" width="80" style="margin: 15px;"/>
   </a>
-  
   <a href="https://codeforces.com/profile/xxyoohoo" target="_blank">
     <img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="60" width="80" style="margin: 15px;"/>
   </a>
-  
   <a href="https://cses.fi/user/213100" target="_blank">
-    <img class="social-icon" src="https://codeforces.com/predownloaded/f6/f0/f6f0e86fb061ff07cda7c345feb0175382d57a35.png" alt="CSES" height="60" width="80" style="margin: 15px;"/>
-  </a>
-</p>
-
-
-
-
-
+    <img class="social-icon" src="https://codeforces.com/predownloaded/f6/f0/f6f0e86fb061ff07cda7c345feb0175382d57a35.png" alt="CSES" height="60" width="80" style="margin: 
 
 <h3 align="center">Languages:</h3>
 <p align="center">
