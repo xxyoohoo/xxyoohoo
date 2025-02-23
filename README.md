@@ -1,18 +1,22 @@
 <h1 align="center">Hello, I'm Arianna Yang</h1>
 <h2 align="center"> Vocalist, Flautist, Pianist, Swimmer, Figure Skater, Debater, Programmer! <3</h2>
-<!-- Page views -->
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=xxyoohoo&label=Profile%20views&color=0e75b6&style=flat" alt="xxyoohoo" />
-</p>
+  
+<!-- Page views and stuff -->
+
+<section align = "center">
+<img src="https://komarev.com/ghpvc/?username=xxyoohoo&style=for-the-badge">
+<img src="https://img.shields.io/github/followers/xxyoohoo?style=for-the-badge&color=blueviolet">
+<img src="https://img.shields.io/github/last-commit/xxyoohoo/xxyoohoo?style=for-the-badge">
+</section>
+
 <!-- Activities -->
-<h3 align="center"> School Activities/Member of: </h3>
-<h3 align="center"> School: </h3>
+<h3 align="center"> School Activities: </h3>
 <h5> Science Olympiad: </h5> 
 <h6><a href="https://scioly.org/wiki/index.php/User:Cloudid"> Scioly.org: CloudID </a> - Scioly Website </h6>
 <h5> Math Team </h5>
 <h5> Wind Ensemble </h5>
 <h5> SCMEA 2025 </h5>
-<h3 align="center"> Extracurriculars: </h3>
+<h3 align="center"> Extracurricular Activities: </h3>
 <h5> Three Village Swim Club </h5>
 <h6><a href="https://www.swimcloud.com/swimmer/2969968/"> Swimcloud: Arianna Yang </a> - Swimcloud Website Data </h6>
 <h6><a href="https://www.tvsc.org/page/home"> Three Village Swim Club (TVSC) </a> - TVSC Website </h6>
