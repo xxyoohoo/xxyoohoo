@@ -32,7 +32,7 @@
 
 <h3 align="center">My Repositories:</h3>
 
-- [Kattis Guide Problemset](https://github.com/xxyoohoo/KattisGuide) - Collection of the Kattis Archive Problems I have done.
+- [Kattis Problemset](https://github.com/xxyoohoo/KattisJudge.cpp) - Collection of the Kattis Archive Problems I have done.
 - [At-coder Problemset](https://github.com/xxyoohoo/AtCoder-Japan) - Collection of At-Coder Contest Problems I have done.
 - [SSOIER Probelms](https://github.com/xxyoohoo/SSOIER) - SSOIER Problems
 - [CSES Probelmset](https://github.com/xxyoohoo/CSES) - CSES Problemset
