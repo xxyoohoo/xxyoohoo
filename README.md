@@ -2,9 +2,11 @@
 <h2 align="center"> Vocalist, Flautist, Pianist, Swimmer, Figure Skater, Debater, Programmer! <3</h2>
 <h3 align="center"> School Activities/Member of: </h3>
 <h3 align="center"> School: </h3>
-<h5> Science Olympiad </h5>
+<h5> Science Olympiad: </h5> 
+<h6><a href="https://scioly.org/wiki/index.php/User:Cloudid"> Scioly.org: CloudID </a> <- Scioly Website </h6>
 <h5> Math Team </h5>
 <h5> Wind Ensemble </h5>
+<h5> SCMEA 2025 </h5>
 <h3 align="center"> Extracurriculars: </h3>
 <h5> Three Village Swim Club </h5>
 <h6><a href="https://www.swimcloud.com/swimmer/2969968/"> Swim Status! </a> - Click here for swimcloud data!</h6>
