@@ -4,9 +4,10 @@
 <!-- Page views and stuff -->
 
 <section align = "center">
+<img src="https://img.shields.io/github/last-commit/xxyoohoo/xxyoohoo?style=for-the-badge">
 <img src="https://komarev.com/ghpvc/?username=xxyoohoo&style=for-the-badge">
 <img src="https://img.shields.io/github/followers/xxyoohoo?style=for-the-badge&color=blueviolet">
-<img src="https://img.shields.io/github/last-commit/xxyoohoo/xxyoohoo?style=for-the-badge">
+
 
 
 <!-- Activities -->
@@ -57,6 +58,18 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 </p>
+
+
+<!-- stats -->
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=xxyoohoo&show_icons=true&locale=en" alt="xxyoohoo" width="32%" height="32%" /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=xxyoohoo&" alt="xxyoohoo" width="32%" height="32%" /></p>
+<section align = "center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xxyoohoo&show_icons=true&locale=en&layout=compact" alt="xxyoohoo" width="32%" height="32%" /></p>
+</section>
 
 
 <!-- Snake GIF -->
