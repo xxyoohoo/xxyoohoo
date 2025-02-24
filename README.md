@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm xxyoohoo! </h1>
+<h1 align="center">Hello, I'm xxyoohoo, or nitrogenberry! </h1>
 <h2 align="center"> Vocalist, Flautist, Pianist, Swimmer, Debater, Programmer! <3</h2>
   
 <!-- Page views and stuff -->
