@@ -19,10 +19,10 @@
 <li> Wind Ensemble
 <li> TVSC Swimming
 <li> Debate
-<!-- <li> Three Village Swim Club: <a href="https://www.swimcloud.com/swimmer/2969968/"> Swimcloud: Arianna Yang </a> & <a href="https://www.tvsc.org/page/home"> Three Village Swim Club (TVSC) </a> <!-- -->
-<!-- <li> Bergen Debate: <a href="https://www.tabroom.com/user/student/history.mhtml?tourn_id=32045&student_id=1583493"> University of Michigan 2025</a>
+ <li> Three Village Swim Club: <a href="https://www.swimcloud.com/swimmer/2969968/"> Swimcloud: Arianna Yang </a> & <a href="https://www.tvsc.org/page/home"> Three Village Swim Club (TVSC) </a>
+<<li> Bergen Debate: <a href="https://www.tabroom.com/user/student/history.mhtml?tourn_id=32045&student_id=1583493"> University of Michigan 2025</a>
 <li> Capitol Debate:<a href="https://www.tabroom.com/user/student/history.mhtml?tourn_id=31895&student_id=1511808"> Bentley Tournament 2024</a>, <a href="https://www.tabroom.com/user/student/history.mhtml?tourn_id=29298&student_id=1394236"> Club League 2024</a>, <a href="https://www.tabroom.com/user/student/history.mhtml?tourn_id=29012&student_id=1394236"> Club League 2024</a>, <a href="https://www.tabroom.com/user/student/history.mhtml?tourn_id=31234&student_id=1478287"> Club League 2024</a> & <a href="https://www.tabroom.com/user/student/history.mhtml?tourn_id=28017&student_id=1357886"> Rider Tournament 2023</a>
-</ul> -->
+</ul>
 
 <ul>
   <li>🔭 Currently working on <strong>Kattis Archive & CSES Problem Set</strong></li>
