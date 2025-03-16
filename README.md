@@ -4,7 +4,7 @@
 <!-- Page views and stuff -->
 
 <section align = "center">
-<img src="https://img.shields.io/github/last-commit/xxyoohoo/xxyoohoo?style=for-the-badge">
+<img src="https://img.shields.io/github/last-commit/xxyoohoo/KattisJudge.cpp?style=for-the-badge">
 <img src="https://komarev.com/ghpvc/?username=xxyoohoo&style=for-the-badge">
 <img src="https://img.shields.io/github/followers/xxyoohoo?style=for-the-badge&color=blueviolet">
 
