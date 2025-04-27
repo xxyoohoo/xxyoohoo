@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm xxyoohoo, or nitrogenberry! </h1>
+<h1 align="center">Hello, I'm xxyoohoo </h1>
 <!--<h2 align="center"> Vocalist, Flautist, Pianist, Swimmer, Debater, Programmer! <3</h2> -->
   
 <!-- Page views and stuff -->
@@ -35,7 +35,7 @@
 
 
 <!-- Socials notes -->
-<!-- <h3 align="center"> Programming Socials:</h3>
+ <h3 align="center"> Programming Socials:</h3>
 
 <p align="center">
   <a href="https://open.kattis.com/users/xxyoohoo" target="_blank"><img class="social-icon" src="https://open.kattis.com/images/site-logo?v=0a3f6018aacf449381741e45cf0ff6ba" alt="Kattis" height="60" width="70"/></a>
@@ -43,7 +43,7 @@
   <a href="https://atcoder.jp/users/xxyoohoo" target="_blank"><img class="social-icon" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm_pVNsGfvZFQPUeet8KaNJJo5ohykVnIhHQ&s" alt="AtCoder" height="60" width="80"/></a>
   <a href="https://codeforces.com/profile/xxyoohoo" target="_blank"><img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="60" width="80"/></a>
   <a href="https://cses.fi/user/213100" target="_blank"><img class="social-icon" src="https://codeforces.com/predownloaded/f6/f0/f6f0e86fb061ff07cda7c345feb0175382d57a35.png" alt="CSES" height="60" width="80"/></a>
--->
+
 <!-- Languages stuff -->
 <!-- <h3 align="center">Languages:</h3>
 
