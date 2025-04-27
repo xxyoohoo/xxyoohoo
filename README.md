@@ -45,7 +45,7 @@
   <a href="https://cses.fi/user/213100" target="_blank"><img class="social-icon" src="https://codeforces.com/predownloaded/f6/f0/f6f0e86fb061ff07cda7c345feb0175382d57a35.png" alt="CSES" height="60" width="80"/></a>
 -->
 <!-- Languages stuff -->
-<h3 align="center">Languages:</h3>
+<!-- <h3 align="center">Languages:</h3>
 
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
@@ -61,7 +61,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=xxyoohoo&show_icons=true&locale=en" alt="xxyoohoo" width="40%" height="40%" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=xxyoohoo&" alt="xxyoohoo" width="40%" height="40%" /></p>
-
 
 
 <!-- Snake GIF -->
