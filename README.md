@@ -31,7 +31,7 @@
 - [At-coder Problemset](https://github.com/xxyoohoo/AtCoder-Japan) - Collection of At-Coder Contest Problems.
 - [SSOIER Probelms](https://github.com/xxyoohoo/SSOIER) - SSOIER Problems
 - [CSES Probelmset](https://github.com/xxyoohoo/CSES) - CSES Problemset
-- [LuoGu Problems] (https://github.com/xxyoohoo/luogu) - LuoGu Probelms
+- [LuoGu Problems](https://github.com/xxyoohoo/Luogu) - LuoGu Probelms
 - [Beginner Code Archive](https://github.com/xxyoohoo/Random-Stuff ) - Beginner Code Archive.
 
 
