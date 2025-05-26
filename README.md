@@ -29,7 +29,7 @@
 [SSOIER, ](http://ybt.ssoier.cn:8088/userinfo.php?name=xxyoohoo)
 [Codeforces, ](https://codeforces.com/profile/xxyoohoo)
 [CSES, ](https://codeforces.com/profile/xxyoohoo)
-[Luogu, ](https://www.luogu.com.cn/user/579545)
+[Luogu ](https://www.luogu.com.cn/user/579545)
 
 <!-- Languages stuff -->
 <!-- <h3 align="center">Languages:</h3>
