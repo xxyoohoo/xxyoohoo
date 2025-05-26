@@ -24,12 +24,12 @@
 
 <h3 align="center"> Socials & Accounts:</h3>
 
-[Kattis ](https://open.kattis.com/users/xxyoohoo)
-[AtCoder ](https://atcoder.jp/users/xxyoohoo)
-[SSOIER ](http://ybt.ssoier.cn:8088/userinfo.php?name=xxyoohoo)
-[Codeforces ](https://codeforces.com/profile/xxyoohoo)
-[CSES ](https://codeforces.com/profile/xxyoohoo)
-[Luogu ](https://www.luogu.com.cn/user/579545)
+[Kattis, ](https://open.kattis.com/users/xxyoohoo)
+[AtCoder, ](https://atcoder.jp/users/xxyoohoo)
+[SSOIER, ](http://ybt.ssoier.cn:8088/userinfo.php?name=xxyoohoo)
+[Codeforces, ](https://codeforces.com/profile/xxyoohoo)
+[CSES, ](https://codeforces.com/profile/xxyoohoo)
+[Luogu, ](https://www.luogu.com.cn/user/579545)
 
 <!-- Languages stuff -->
 <!-- <h3 align="center">Languages:</h3>
