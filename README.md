@@ -14,24 +14,22 @@
 
 <h3 align="center">My Repositories:</h3>
 
-- [Kattis](https://github.com/xxyoohoo/KattisJudge.cpp) - Collection of the Kattis Archive Problems.
-- [At-coder](https://github.com/xxyoohoo/AtCoder-Japan) - Collection of At-Coder Contest Problems.
-- [SSOIER](https://github.com/xxyoohoo/SSOIER) - SSOIER Problems
-- [CSES](https://github.com/xxyoohoo/CSES) - CSES Problemset
-- [Luogu](https://github.com/xxyoohoo/Luogu) - LuoGu Probelms
-- [Beginner Archive](https://github.com/xxyoohoo/Random-Stuff ) - Beginner Code Archive.
+- [Kattis](https://github.com/xxyoohoo/KattisJudge.cpp) -> Collection of the Kattis Archive Problems.
+- [At-coder](https://github.com/xxyoohoo/AtCoder-Japan) -> Collection of At-Coder Contest Problems.
+- [SSOIER](https://github.com/xxyoohoo/SSOIER) -> SSOIER Problems
+- [CSES](https://github.com/xxyoohoo/CSES) -> CSES Problemset
+- [Luogu](https://github.com/xxyoohoo/Luogu) -> Luogu Probelms
+- [Beginner Archive](https://github.com/xxyoohoo/Random-Stuff ) -> Beginner Code Archive.
 
 
-<!-- Socials notes -->
- <h3 align="center"> Programming Socials:</h3>
+<h3 align="center"> Socials & Accounts:</h3>
 
-<p align="center">
-  <a [Kattis](https://open.kattis.com/users/xxyoohoo) </a>
-  <a [AtCoder](https://atcoder.jp/users/xxyoohoo) </a>
-  <a [SSOIER](http://ybt.ssoier.cn:8088/userinfo.php?name=xxyoohoo) </a>
-  <a [Codeforces](https://codeforces.com/profile/xxyoohoo) </a>
-  <a [CSES](https://codeforces.com/profile/xxyoohoo) </a>
-  <a [Luogu](https://www.luogu.com.cn/user/579545) </a>
+[Kattis ](https://open.kattis.com/users/xxyoohoo)
+[AtCoder ](https://atcoder.jp/users/xxyoohoo)
+[SSOIER ](http://ybt.ssoier.cn:8088/userinfo.php?name=xxyoohoo)
+[Codeforces ](https://codeforces.com/profile/xxyoohoo)
+[CSES ](https://codeforces.com/profile/xxyoohoo)
+[Luogu ](https://www.luogu.com.cn/user/579545)
 
 <!-- Languages stuff -->
 <!-- <h3 align="center">Languages:</h3>
