@@ -12,29 +12,18 @@
  Currently working on <strong>Kattis & CSES</strong> & learning <strong>C++, Python, HTML, and CSS!</strong>
 </section>
 
-<h3 align="center">Notable Repositories:</h3>
-<div align="left">
-
-- [Kattis](https://github.com/xxyoohoo/KattisJudge.cpp) -> Collection of the Kattis Archive Problems.  
-- [At-coder](https://github.com/xxyoohoo/AtCoder-Japan) -> Collection of At-Coder Contest Problems.  
-- [SSOIER](https://github.com/xxyoohoo/SSOIER) -> SSOIER Problems  
-- [CSES](https://github.com/xxyoohoo/CSES) -> CSES Problemset  
-- [Luogu](https://github.com/xxyoohoo/Luogu) -> Luogu Problems  
-- [Beginner Archive](https://github.com/xxyoohoo/Random-Stuff) -> Beginner Code Archive.  
-
-</div>
-
-
-
 <h3 align="center"> Socials & Accounts:</h3>
 <div align="left">
-- [Kattis](https://open.kattis.com/users/xxyoohoo)
-- [AtCoder](https://atcoder.jp/users/xxyoohoo)
-- [SSOIER](http://ybt.ssoier.cn:8088/userinfo.php?name=xxyoohoo)
-- [Codeforces](https://codeforces.com/profile/xxyoohoo)
-- [CSES](https://codeforces.com/profile/xxyoohoo)
-- [Luogu](https://www.luogu.com.cn/user/579545)
+  <ul>
+    <li><a href="https://open.kattis.com/users/xxyoohoo">Kattis</a></li>
+    <li><a href="https://atcoder.jp/users/xxyoohoo">AtCoder</a></li>
+    <li><a href="http://ybt.ssoier.cn:8088/userinfo.php?name=xxyoohoo">SSOIER</a></li>
+    <li><a href="https://codeforces.com/profile/xxyoohoo">Codeforces</a></li>
+    <li><a href="https://cses.fi/user/482463">CSES</a></li>
+    <li><a href="https://www.luogu.com.cn/user/579545">Luogu</a></li>
+  </ul>
 </div>
+
 
 <!-- Languages stuff -->
 <!-- <h3 align="center">Languages:</h3>
