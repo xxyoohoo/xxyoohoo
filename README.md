@@ -12,6 +12,18 @@
  Currently working on <strong>Kattis & CSES</strong> & learning <strong>C++, Python, HTML, and CSS!</strong>
 </section>
 
+<h3 align="center">Notable Repositories:</h3>
+<div align="left">
+
+- [Kattis](https://github.com/xxyoohoo/KattisJudge.cpp) -> Collection of the Kattis Archive Problems.  
+- [At-coder](https://github.com/xxyoohoo/AtCoder-Japan) -> Collection of At-Coder Contest Problems.  
+- [SSOIER](https://github.com/xxyoohoo/SSOIER) -> SSOIER Problems  
+- [CSES](https://github.com/xxyoohoo/CSES) -> CSES Problemset  
+- [Luogu](https://github.com/xxyoohoo/Luogu) -> Luogu Problems  
+- [Beginner Archive](https://github.com/xxyoohoo/Random-Stuff) -> Beginner Code Archive.  
+
+</div>
+
 <h3 align="center"> Socials & Accounts:</h3>
 <div align="left">
   <ul>
