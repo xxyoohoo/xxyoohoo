@@ -24,8 +24,8 @@
 
 </div>
 
-<h3 align="left"> Socials & Accounts:</h3>
-<div align="left">
+<h3 align="right"> Socials & Accounts:</h3>
+<div align="right">
   <ul>
     <li><a href="https://open.kattis.com/users/xxyoohoo">Kattis</a></li>
     <li><a href="https://atcoder.jp/users/xxyoohoo">AtCoder</a></li>
