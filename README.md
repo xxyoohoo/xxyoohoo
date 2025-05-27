@@ -12,7 +12,7 @@
  Currently working on <strong>Kattis & CSES</strong> & learning <strong>C++, Python, HTML, and CSS!</strong>
 </section>
 
-<h3 align="center">Notable Repositories:</h3>
+<h3 align="left">Notable Repositories:</h3>
 <div align="left">
 
 - [Kattis](https://github.com/xxyoohoo/KattisJudge.cpp) -> Collection of the Kattis Archive Problems.  
@@ -24,7 +24,7 @@
 
 </div>
 
-<h3 align="center"> Socials & Accounts:</h3>
+<h3 align="left"> Socials & Accounts:</h3>
 <div align="left">
   <ul>
     <li><a href="https://open.kattis.com/users/xxyoohoo">Kattis</a></li>
