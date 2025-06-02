@@ -56,6 +56,7 @@
 
 
 <!-- Snake GIF -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/xxyoohoo/xxyoohoo/blob/output/github-snake-dark.svg" alt="snake gif" />
 </p>
+-->
