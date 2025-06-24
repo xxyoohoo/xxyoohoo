@@ -2,28 +2,28 @@
 <!--<h2 align="center"> Vocalist, Flautist, Pianist, Swimmer, Debater, Programmer! <3</h2> -->
   
 <!-- Page views and stuff -->
-
+<!-- 
 <section align = "center">
-<img src="https://img.shields.io/github/last-commit/xxyoohoo/KattisJudge.cpp?style=for-the-badge">
+<img src="https://img.shields.io/github/last-commit/xxyoohoo/Practice.cpp?style=for-the-badge">
 <img src="https://komarev.com/ghpvc/?username=xxyoohoo&style=for-the-badge">
 <img src="https://img.shields.io/github/followers/xxyoohoo?style=for-the-badge&color=blueviolet">
-
+-->
 <section align = "center">
- Currently working on <strong>Kattis & CSES</strong> & learning <strong>C++, Python, HTML, and CSS!</strong>
+ C++ and Python
 </section>
-
+<!-- 
 <h3 align="left">Notable Repositories:</h3>
 <div align="left">
-
+<!-- 
 - [Kattis](https://github.com/xxyoohoo/KattisJudge.cpp) -> Collection of the Kattis Archive Problems.  
 - [At-coder](https://github.com/xxyoohoo/AtCoder-Japan) -> Collection of At-Coder Contest Problems.  
 - [SSOIER](https://github.com/xxyoohoo/SSOIER) -> SSOIER Problems  
 - [CSES](https://github.com/xxyoohoo/CSES) -> CSES Problemset  
 - [Luogu](https://github.com/xxyoohoo/Luogu) -> Luogu Problems  
 - [Beginner Archive](https://github.com/xxyoohoo/Random-Stuff) -> Beginner Code Archive.  
-
+<!-- 
 </div>
-
+<!-- 
 <h3 align="left"> Socials & Accounts:</h3>
 <div align="left">
   <ul>
