@@ -10,8 +10,8 @@
 -->
 <section align = "center">
  C++ and Python
-  EDIT: I quit :D
 </section>
+EDIT: I quit :D
 <!-- 
 <h3 align="left">Notable Repositories:</h3>
 <div align="left">
