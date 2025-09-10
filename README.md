@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/github/followers/xxyoohoo?style=for-the-badge&color=blueviolet">
 -->
 <section align = "center">
- C++ and Python
+ C++, Python Java
 </section>
 EDIT: I quit :D
 <!-- 
