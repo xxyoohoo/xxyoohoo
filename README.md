@@ -11,7 +11,7 @@
 <section align = "center">
  C++, Python Java
 </section>
-EDIT: I quit :D
+EDIT: I quit :D -> only uploading School-Stuff
 <!-- 
 <h3 align="left">Notable Repositories:</h3>
 <div align="left">
