@@ -10,8 +10,11 @@
 -->
 <section align = "center">
  C++, Python, Java
+</section>
+<section align = "center">
 UPDATE: Inactive.  No more coding :)
 </section>
+
 
 <!-- 
 <h3 align="left">Notable Repositories:</h3>
