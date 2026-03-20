@@ -10,8 +10,9 @@
 -->
 <section align = "center">
  C++, Python, Java
+UPDATE: Inactive.  No more coding :)
 </section>
-EDIT: Inactive.  No more coding :)
+
 <!-- 
 <h3 align="left">Notable Repositories:</h3>
 <div align="left">
