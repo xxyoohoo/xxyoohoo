@@ -9,9 +9,9 @@
 <img src="https://img.shields.io/github/followers/xxyoohoo?style=for-the-badge&color=blueviolet">
 -->
 <section align = "center">
- C++, Python Java
+ C++, Python, Java
 </section>
-EDIT: I quit :D -> only uploading School-Stuff
+EDIT: Inactive.  No more coding :)
 <!-- 
 <h3 align="left">Notable Repositories:</h3>
 <div align="left">
